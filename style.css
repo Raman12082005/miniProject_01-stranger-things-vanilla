@@ -69,7 +69,7 @@
 /* ---- HERO ---- */
 .hero {
   height: 100vh;
-  background-image: url('images/will1.webp');
+  background-image: url('Images/will1.webp');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -81,7 +81,7 @@
   background-position: 40% 7%;
   position: absolute;
   inset: 0;
-  background-image: url('images/v1.png');
+  background-image: url('Images/v1.png');
   background-size: cover;
   pointer-events: none;
   opacity: 0;
