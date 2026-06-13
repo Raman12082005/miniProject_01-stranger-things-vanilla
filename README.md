@@ -9,7 +9,7 @@ A Stranger Things themed landing page built with pure HTML, CSS, and JavaScript.
 - Responsive navbar with hover effects
 
 ## How to Run
-Just open `index.html` with Live Server in VSCode.
+[click here to view demo]()
 
 ## Tech Stack
 - HTML
